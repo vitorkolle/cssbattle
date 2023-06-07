@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #62374e;
+    
+ }
+ .qq{
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     padding: 10vh 30vh;
+ }
+ .q1{
+     background-color: #fdc57b;
+     width: 120px;
+     height: 120px;
+ }
+ .q2{
+    background-color: #fdc57b;
+    width: 120px;
+    height: 120px;
+    margin-left: 100vh;
+   
+}
+.q3{
+    background-color: #fdc57b;
+    width: 120px;
+    height: 120px;
+    margin-top: 50vh;
+}
+.q4{
+    background-color: #fdc57b;
+    width: 120px;
+    height: 120px;
+    margin-left: 100vh;
+    margin-top: 50vh;
+}
+
+
+ 
